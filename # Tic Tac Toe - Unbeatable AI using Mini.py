@@ -1,5 +1,3 @@
-
-
 def init_board():
     return [None] * 9  # 9 cells (0..8)
 
