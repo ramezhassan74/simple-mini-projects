@@ -1,0 +1,49 @@
+Project 1: Unbeatable Tic Tac Toe (Minimax Algorithm)
+English
+
+This project is a Python implementation of the classic Tic Tac Toe game where the computer is unbeatable.
+It uses the Minimax algorithm to always choose the best possible move.
+
+Player plays as X.
+
+Computer plays as O.
+
+The game runs in the terminal, asking the player to choose a cell (1–9).
+
+The computer responds with the optimal move.
+
+Arabic
+
+المشروع ده عبارة عن لعبة تيك تاك تو (X-O) معمولة بلغة بايثون، والكمبيوتر فيها مستحيل يخسر.
+بيستخدم خوارزمية Minimax عشان يختار أفضل حركة ممكنة كل مرة.
+
+اللاعب بيلعب بـ X.
+
+الكمبيوتر بيلعب بـ O.
+
+اللعبة بتشتغل من التيرمنال، وبتطلب منك تختار رقم خانة من (1–9).
+
+الكمبيوتر بيرد بأذكى حركة ممكنة.
+
+Project 2: Sudoku Solver (Backtracking Algorithm)
+English
+
+This project is a Sudoku solver built in Python using the Backtracking algorithm.
+
+The Sudoku puzzle is entered by the user (row by row, using 0 for empty cells).
+
+The program tries to fill all empty cells while respecting Sudoku rules (no duplicate numbers in rows, columns, or 3×3 sub-grids).
+
+If the puzzle is solvable, it prints the completed Sudoku. Otherwise, it shows that the puzzle cannot be solved.
+
+Arabic
+
+المشروع ده عبارة عن محلل سودوكو معمول بلغة بايثون باستخدام خوارزمية Backtracking.
+
+المستخدم بيدخل جدول السودوكو (صف بصف، والخانات الفاضية بـ 0).
+
+البرنامج بيحاول يملأ كل الخانات الفاضية مع الالتزام بقواعد السودوكو (من غير تكرار أرقام في الصف، العمود، أو المربع 3×3).
+
+لو اللغز قابل للحل → البرنامج بيطبع الحل كامل.
+
+لو مش قابل للحل → بيطلع رسالة إن الحل مش ممكن.
